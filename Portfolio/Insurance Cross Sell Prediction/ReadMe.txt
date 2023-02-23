@@ -26,3 +26,5 @@ KFold Cross Validation is used
 Hyperperparameter tuning done usig GridSearch
 Various classification models like KNN, Logistic Regression, Decision Tree and Naive Bayes Classifier are used for prediction
 Precision, Recall, F1 score, ROC-AUC curve are used performance metrics
+
+A web app is created using Flask and deployed in the localhost
