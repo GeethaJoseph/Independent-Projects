@@ -9,5 +9,5 @@ These are project done with toy datasets with the intention of learning various 
 
 Followed the theory in 'Hands on Machine Learning with Scikit Learn, Keras and Tensorflow' By Aurelien Geron in each of the projects
 
-#### Basic Projects
+#### Portfolio
 This is the section where I have presented my pet projects.
